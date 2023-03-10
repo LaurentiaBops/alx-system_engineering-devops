@@ -1,2 +1,2 @@
 #!/bin/bash
-chomd a=x 0x01-shell_permissions
+chomd -R  a=x 0x01-shell_permissions
